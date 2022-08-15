@@ -8,7 +8,7 @@ I'm Viktoriya 👨‍💻 I’m currently working in Uralchem as Middle DevOps E
 
 <br />
 
-<img align="right" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png raw=true" width="360" height="280" />
+<img align="right" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png" width="360" height="280" />
   
 *Languages and Tools:* 
 

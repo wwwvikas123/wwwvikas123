@@ -4,7 +4,7 @@
 </a>
 <br />
 
-I'am Viktoriya 👨‍💻 I’m currently working in Uralchem as Middle DevOps Engineer.
+I'm Viktoriya 👨‍💻 I’m currently working in Uralchem as Middle DevOps Engineer.
 
 <br />
 
